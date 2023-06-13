@@ -1,5 +1,7 @@
 # Challenge-10--Generate-SVG-Logo
 
+The purpose of the svg logo generator is to generate triangle, circle, or square shaped logos for users. 
+
 User Story: 
 AS a freelance web developer
 I WANT to generate a simple logo for my projects
